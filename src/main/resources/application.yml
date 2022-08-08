@@ -1,0 +1,10 @@
+
+server:
+    port: 8001
+
+jdbc:
+    url: com.mysql.jdbc.Driver
+    driverClassName: jdbc:mysql:127.0.0.1:3606/ry
+    username: root
+    password: root
+
